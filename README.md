@@ -1,2 +1,2 @@
 # security_awareness_demo
-Scaring people with ETERNALBLUE, Mimikatz, and mauri870/ransomware.
+Scaring people with ETERNALBLUE, Mimikatz, and WannaCry.
